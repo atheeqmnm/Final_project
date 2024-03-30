@@ -88,7 +88,7 @@ class Bloodsugar{
     
 } 
 
-public class Final_project {
+public class Tester_Final_project {
     private static Bloodsugar record(){
         Scanner R = new Scanner(System.in);
         System.out.print("Enter ID: ");
